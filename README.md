@@ -1,6 +1,9 @@
 # breastcancer
 Breast cancer i.a. test
 
+Usando um dataset do Kaglle estou definindo uma rede neural artifical para decidir se um cancer
+é benigno ou maligno
+
 A inteligência artifical foi treinada para responder binariamente entre falso e verdadeiro usando
 um parâmetro de dados com 30 variaveis, se o tumor é benigno ou maligno.
 Foram feitos os tunnings usando parametros diferentes, mas bem próximos uns aos outros por não possuir
